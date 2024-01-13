@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+    background-color: aqua;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 100px;
+    line-height: 200px;
+    text-transform:uppercase;
+}
+#life{
+    color: cadetblue;
+    background-color: burlywood;
+
+}
+#sad{
+    color: aqua;
+    background-color: yellow;
+
+}
+.a{
+    color: blueviolet;
+    background-color: chocolate;
+}
